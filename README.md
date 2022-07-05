@@ -1,5 +1,5 @@
 # uas-wp2
-membuat web ppdb sekolah
+Membuat Web Kasir
 login sebagai admin dengan menggunakan
 user : admin
 pass : admin
