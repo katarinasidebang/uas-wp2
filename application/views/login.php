@@ -44,7 +44,7 @@
         </form>
         <div class="text-center">
           <a class="d-block small mt-3" href="<?=site_url('home');?>">Kembali ke Beranda</a>
-					<br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
+					<br><center><p>Repost by <a href='https://www.instagram.com/the.jurnals/?hl=id' title='The Jurnals' target='_blank'>The Jurnals</a></p></center>
 					
         </div>
         <?=$this->session->flashdata('notif');?>

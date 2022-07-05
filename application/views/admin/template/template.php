@@ -114,7 +114,7 @@
       <footer class="sticky-footer">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright © <?=$site['nama_website'].' '.date('Y');?> | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
+            <span>Copyright © <?=$site['nama_website'].' '.date('Y');?> | Repost by <a href='https://www.instagram.com/the.jurnals/?hl=id' title='The Jurnals' target='_blank'>The Jurnals</a>
 						</span>
           </div>
         </div>
